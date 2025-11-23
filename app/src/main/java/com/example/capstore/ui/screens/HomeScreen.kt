@@ -42,7 +42,6 @@ fun HomeScreen(
             .fillMaxSize()
             .padding(horizontal = 16.dp, vertical = 8.dp)
     ) {
-        Text(text = stringResource(id = R.string.home_section_description))
         when (layoutType) {
             HomeLayoutType.List -> {
                 LazyColumn(

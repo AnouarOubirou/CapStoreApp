@@ -13,6 +13,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.text.font.FontWeight.Companion.Bold
+import androidx.compose.ui.unit.sp
 
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -36,7 +37,7 @@ fun WelcomeScreen(
         ) {
             Text(
                 text = "Discover the Latest Cap Collection",
-                style = MaterialTheme.typography.headlineSmall.copy(fontWeight = Bold),
+                style = MaterialTheme.typography.headlineSmall.copy(fontWeight = Bold, fontSize = 24.sp),
                 textAlign = TextAlign.Center
             )
 
