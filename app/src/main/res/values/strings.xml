@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CapStore</string>
+
+    <!-- Screen titles -->
+    <string name="screen_welcome_title">Cap Store</string>
+    <string name="screen_login_title">Log in</string>
+    <string name="screen_signup_title">Sign up</string>
+    <string name="screen_home_title">Home</string>
+    <string name="screen_products_title">Caps</string>
+    <string name="screen_cart_title">Cart</string>
+    <string name="screen_details_title">Cap Details</string>
+
+    <!-- Shared actions -->
+    <string name="action_login">Log in</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="action_add_to_cart">Add to cart</string>
+    <string name="cd_navigate_back">Navigate back</string>
+
+    <!-- Inputs -->
+    <string name="label_name">Enter your name</string>
+    <string name="label_email">Enter your email</string>
+    <string name="label_password">Password</string>
+
+    <!-- Welcome -->
+    <string name="welcome_tagline">Find your next favorite cap</string>
+    <string name="welcome_logo_content_description">CapStore logo</string>
+
+    <!-- Home -->
+    <string name="home_section_description">Browse the catalog and open a cap for more details.</string>
+
+    <!-- Details -->
+    <string name="details_add_to_cart">Add this cap to the cart</string>
+    <string name="details_missing_cap">Select a cap from the list to view it here.</string>
+
+    <!-- Cart -->
+    <string name="cart_empty_message">Your cart is empty. Start adding caps!</string>
+    <string name="cart_total_label">Order total</string>
+
+    <!-- Pricing -->
+    <string name="price_format">$%.2f</string>
+
+    <!-- Cap names -->
+    <string name="cap_name_classic_navy">Classic Navy</string>
+    <string name="cap_name_sport_green">Sport Green</string>
+    <string name="cap_name_denim_blue">Denim Blue</string>
+    <string name="cap_name_city_black">City Black</string>
+
+    <!-- Cap descriptions -->
+    <string name="cap_description_classic_navy">Everyday comfort with a timeless navy finish.</string>
+    <string name="cap_description_sport_green">Breathable mesh paneling built for outdoor workouts.</string>
+    <string name="cap_description_denim_blue">Soft washed denim that pairs with every outfit.</string>
+    <string name="cap_description_city_black">Minimal black cap with subtle reflective details.</string>
+</resources>
